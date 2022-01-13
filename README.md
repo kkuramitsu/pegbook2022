@@ -3,4 +3,6 @@
 サポートページ
 
 - [第4章 PegTreeと構文木](pegbook_chap4.ipynb) [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kkuramitsu/pegbook2022/blob/master/pegbook_chap4.ipynb)
+- [第5章 計算機を作る](pegbook_chap5.ipynb) [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kkuramitsu/pegbook2022/blob/master/pegbook_chap5.ipynb)
+
 
